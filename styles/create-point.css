@@ -98,7 +98,7 @@ form label {
   margin-bottom: 8px;
 }
 
-form .field-group .field + field  {
+form .field-group .field + .field  {
   margin-left: 24px;
 }
 
