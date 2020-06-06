@@ -84,10 +84,15 @@ main .card p {
   color: #6c6c80;
 }
 
+body {
+  background-color: white;
+
+}
+
 body::after {
   content: "";
   position: fixed;
-  background: white;
+  background: #f0f0f5;
   top: 260px;
   right: 0px;
   left: 0;
